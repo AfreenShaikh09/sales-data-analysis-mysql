@@ -1,0 +1,31 @@
+﻿restaurant_id,restaurant_name,city,cuisine_type,avg_cost_for_two,rating,is_veg,opened_year
+1,Barbeque Nation,Pune,North Indian,1600,4.3,FALSE,2012
+2,Vaishali,Pune,South Indian,400,4.5,TRUE,1987
+3,Burger Craft,Pune,Fast Food,600,4.1,FALSE,2018
+4,Mainland China,Mumbai,Chinese,1800,4.2,FALSE,2010
+5,Trishna,Mumbai,Seafood,2200,4.6,FALSE,1991
+6,Cafe Leopold,Mumbai,Continental,1200,4,FALSE,1971
+7,MTR,Bangalore,South Indian,500,4.7,TRUE,1924
+8,Meghana Foods,Bangalore,Biryani,700,4.5,FALSE,2006
+9,Empire Restaurant,Bangalore,North Indian,800,4.2,FALSE,2001
+10,Bukhara,Delhi,North Indian,3500,4.8,FALSE,1977
+11,Karims,Delhi,Mughlai,900,4.4,FALSE,1913
+12,Saravana Bhavan,Delhi,South Indian,600,4.3,TRUE,1981
+13,Paradise Biryani,Hyderabad,Biryani,750,4.2,FALSE,1953
+14,Bawarchi,Hyderabad,North Indian,650,4.1,FALSE,1994
+15,Chutneys,Hyderabad,South Indian,500,4.4,TRUE,1991
+16,6 Ballygunge Place,Kolkata,Bengali,1200,4.6,FALSE,2003
+17,Oh Calcutta,Kolkata,Bengali,1400,4.5,FALSE,2004
+18,Anand Sweets,Ahmedabad,Gujarati,450,4.3,TRUE,1990
+19,Agashiye,Ahmedabad,Gujarati,1800,4.6,TRUE,1996
+20,Murugan Idli Shop,Chennai,South Indian,400,4.6,TRUE,1998
+21,Annalakshmi,Chennai,South Indian,700,4.5,TRUE,1989
+22,Kake Da Hotel,Chandigarh,North Indian,800,4.2,FALSE,1971
+23,Gopal Sweets,Chandigarh,North Indian,600,4.1,TRUE,1985
+24,Suruchi,Jaipur,Rajasthani,900,4.3,TRUE,2005
+25,Spice Court,Jaipur,Rajasthani,1100,4.4,TRUE,1999
+26,Punjab Grill,Gurgaon,North Indian,2000,4.2,FALSE,2009
+27,Social,Gurgaon,Continental,1500,4.1,FALSE,2014
+28,The Black Pearl,Indore,North Indian,1400,4.3,FALSE,2016
+29,Chokhi Dhani,Indore,Rajasthani,1300,4.4,TRUE,1990
+30,Pind Balluchi,Noida,North Indian,1600,4.2,FALSE,2005

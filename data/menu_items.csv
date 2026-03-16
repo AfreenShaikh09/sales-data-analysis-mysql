@@ -1,0 +1,151 @@
+﻿item_id,restaurant_id,item_name,category,price
+It101,1,Paneer Tikka,Starter,320
+It102,1,Chicken Tikka,Starter,380
+It103,1,Butter Chicken,Main Course,420
+It104,1,Dal Makhani,Main Course,300
+It105,1,Gulab Jamun,Dessert,150
+It106,2,Masala Dosa,Main Course,180
+It107,2,Idli Sambar,Main Course,120
+It108,2,Medu Vada,Starter,140
+It109,2,Filter Coffee,Beverage,80
+It110,2,Upma,Main Course,130
+It111,3,Cheese Burger,Fast Food,220
+It112,3,Veg Burger,Fast Food,180
+It113,3,French Fries,Fast Food,150
+It114,3,Chicken Wrap,Fast Food,200
+It115,3,Cold Coffee,Beverage,120
+It116,4,Chilli Chicken,Starter,360
+It117,4,Veg Manchurian,Starter,300
+It118,4,Hakka Noodles,Main Course,280
+It119,4,Fried Rice,Main Course,260
+It120,4,Spring Rolls,Starter,240
+It121,5,Prawn Curry,Main Course,480
+It122,5,Fish Fry,Starter,420
+It123,5,Crab Masala,Main Course,520
+It124,5,Steamed Rice,Main Course,180
+It125,5,Solkadhi,Beverage,120
+It126,6,Chicken Sandwich,Fast Food,260
+It127,6,Veg Sandwich,Fast Food,220
+It128,6,Pasta Alfredo,Main Course,340
+It129,6,Cold Coffee,Beverage,150
+It130,6,Brownie,Dessert,180
+It131,7,Chicken Biryani,Main Course,320
+It132,7,Mutton Biryani,Main Course,380
+It133,7,Chicken 65,Starter,260
+It134,7,Raita,Side Dish,80
+It135,7,Double Ka Meetha,Dessert,160
+It136,8,Plain Dosa,Main Course,140
+It137,8,Masala Dosa,Main Course,170
+It138,8,Idli Vada Combo,Main Course,160
+It139,8,Filter Coffee,Beverage,90
+It140,8,Rava Kesari,Dessert,130
+It141,9,Butter Naan,Bread,60
+It142,9,Paneer Butter Masala,Main Course,300
+It143,9,Chicken Curry,Main Course,340
+It144,9,Jeera Rice,Main Course,200
+It145,9,Gulab Jamun,Dessert,140
+It146,10,Dal Bukhara,Main Course,650
+It147,10,Sikandari Raan,Main Course,1200
+It148,10,Tandoori Roti,Bread,90
+It149,10,Paneer Khurchan,Main Course,520
+It150,10,Kulfi,Dessert,180
+It151,11,Paneer Tikka,Starter,320
+It152,11,Chicken Tikka,Starter,380
+It153,11,Butter Chicken,Main Course,420
+It154,11,Dal Makhani,Main Course,300
+It155,11,Gulab Jamun,Dessert,150
+It156,12,Masala Dosa,Main Course,180
+It157,12,Idli Sambar,Main Course,120
+It158,12,Medu Vada,Starter,140
+It159,12,Filter Coffee,Beverage,80
+It160,12,Upma,Main Course,130
+It161,13,Cheese Burger,Fast Food,220
+It162,13,Veg Burger,Fast Food,180
+It163,13,French Fries,Fast Food,150
+It164,13,Veg Wrap,Fast Food,200
+It165,13,Cold Coffee,Beverage,120
+It166,14,Chilli Chicken,Starter,360
+It167,14,Veg Manchurian,Starter,300
+It168,14,Hakka Noodles,Main Course,280
+It169,14,Fried Rice,Main Course,260
+It170,14,Spring Rolls,Starter,240
+It171,15,Prawn Curry,Main Course,480
+It172,15,Fish Fry,Starter,420
+It173,15,Crab Masala,Main Course,520
+It174,15,Steamed Rice,Main Course,180
+It175,15,Solkadhi,Beverage,120
+It176,16,Aloo Sandwich,Fast Food,260
+It177,16,Veg Sandwich,Fast Food,220
+It178,16,Pasta Alfredo,Main Course,340
+It179,16,Cold Coffee,Beverage,150
+It180,16,Brownie,Dessert,180
+It181,17,Plain Dosa,Main Course,140
+It182,17,Masala Dosa,Main Course,170
+It183,17,Idli Vada Combo,Main Course,160
+It184,17,Filter Coffee,Beverage,90
+It185,17,Rava Kesari,Dessert,130
+It186,18,Chicken Biryani,Main Course,320
+It187,18,Mutton Biryani,Main Course,380
+It188,18,Chicken 65,Starter,260
+It189,18,Raita,Side Dish,80
+It190,18,Double Ka Meetha,Dessert,160
+It191,19,Butter Naan,Bread,60
+It192,19,Paneer Butter Masala,Main Course,300
+It193,19,Aloo Curry,Main Course,340
+It194,19,Jeera Rice,Main Course,200
+It195,19,Gulab Jamun,Dessert,140
+It196,20,Dal Bukhara,Main Course,650
+It197,20,Sikandari Raan,Main Course,1200
+It198,20,Tandoori Roti,Bread,90
+It199,20,Paneer Khurchan,Main Course,520
+It200,20,Kulfi,Dessert,180
+It201,21,Paneer Tikka,Starter,320
+It202,21,Aloo Tikka,Starter,380
+It203,21,Butter Paneer,Main Course,420
+It204,21,Dal Makhani,Main Course,300
+It205,21,Gulab Jamun,Dessert,150
+It206,22,Masala Dosa,Main Course,180
+It207,22,Idli Sambar,Main Course,120
+It208,22,Medu Vada,Starter,140
+It209,22,Filter Coffee,Beverage,80
+It210,22,Upma,Main Course,130
+It211,23,Cheese Burger,Fast Food,220
+It212,23,Veg Burger,Fast Food,180
+It213,23,French Fries,Fast Food,150
+It214,23,Chicken Wrap,Fast Food,200
+It215,23,Cold Coffee,Beverage,120
+It216,24,Chilli Toast,Starter,360
+It217,24,Veg Manchurian,Starter,300
+It218,24,Hakka Noodles,Main Course,280
+It219,24,Fried Rice,Main Course,260
+It220,24,Spring Rolls,Starter,240
+It221,25,Curry,Main Course,480
+It222,25,Paneer Fry,Starter,420
+It223,25,Masala,Main Course,520
+It224,25,Steamed Rice,Main Course,180
+It225,25,Solkadhi,Beverage,120
+It226,26,Sandwich,Fast Food,260
+It227,26,Veg Sandwich,Fast Food,220
+It228,26,Pasta Alfredo,Main Course,340
+It229,26,Cold Coffee,Beverage,150
+It230,26,Brownie,Dessert,180
+It231,27,Plain Dosa,Main Course,140
+It232,27,Masala Dosa,Main Course,170
+It233,27,Idli Vada Combo,Main Course,160
+It234,27,Filter Coffee,Beverage,90
+It235,27,Rava Kesari,Dessert,130
+It236,28,Chicken Biryani,Main Course,320
+It237,28,Mutton Biryani,Main Course,380
+It238,28,Chicken 65,Starter,260
+It239,28,Raita,Side Dish,80
+It240,28,Double Ka Meetha,Dessert,160
+It241,29,Butter Naan,Bread,60
+It242,29,Paneer Butter Masala,Main Course,300
+It243,29,Curry,Main Course,340
+It244,29,Jeera Rice,Main Course,200
+It245,29,Gulab Jamun,Dessert,140
+It246,30,Dal Bukhara,Main Course,650
+It247,30,Sikandari Raan,Main Course,1200
+It248,30,Tandoori Roti,Bread,90
+It249,30,Paneer Khurchan,Main Course,520
+It250,30,Kulfi,Dessert,180

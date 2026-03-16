@@ -1,0 +1,26 @@
+﻿partner_id,partner_name,city,vehicle_type,joining_year
+P1,Rahul Patil,Pune,Bike,2019
+P2,Amit Sharma,Pune,Bike,2020
+P3,Sneha Kulkarni,Pune,Scooter,2021
+P4,Rohit Verma,Mumbai,Bike,2018
+P5,Akash Singh,Mumbai,Bike,2019
+P6,Neha Joshi,Mumbai,Scooter,2020
+P7,Suresh Reddy,Bangalore,Bike,2017
+P8,Kiran Rao,Bangalore,Bike,2019
+P9,Manoj Kumar,Bangalore,Scooter,2021
+P10,Deepak Yadav,Delhi,Bike,2018
+P11,Pooja Mehta,Delhi,Scooter,2020
+P12,Ankit Jain,Delhi,Bike,2019
+P13,Ravi Teja,Hyderabad,Truck,2018
+P14,Sai Kiran,Hyderabad,Scooter,2021
+P15,Prakash Naik,Hyderabad,Truck,2019
+P16,Arindam Das,Kolkata,Bike,2017
+P17,Soumya Sen,Kolkata,Scooter,2020
+P18,Amitabh Roy,Kolkata,Bike,2018
+P19,Hardik Patel,Ahmedabad,Bike,2019
+P20,Mehul Shah,Ahmedabad,Scooter,2021
+P21,Suresh Iyer,Chennai,Truck,2018
+P22,Vignesh Kumar,Chennai,Scooter,2020
+P23,Manpreet Singh,Chandigarh,Bike,2019
+P24,Rajesh Malhotra,Gurgaon,Bike,2018
+P25,Nitin Pawar,Indore,Scooter,2021
